@@ -1,0 +1,293 @@
+
+body{
+ 
+  background-color: aqua;
+  border: 31px double black;
+  width: 1919px;
+  height: 4475px;
+  margin: auto;
+  padding: 96px;
+}
+
+
+
+
+
+
+
+
+
+.headingsarkari{
+
+  background-color: yellow;
+  height: 456px;
+  width: 96%;
+  background-position: 50% 50%;
+  font-size: 74px;
+  text-align: center;
+  margin: -97px 197px 74px -93px;
+  padding: 132px;
+
+}
+.blacktitle{
+
+  margin: -210px -106px 28px -97px;
+  background-color: blue;
+ 
+  padding: 44px;
+  height: 124px;
+}
+
+
+
+
+.box1{
+
+
+  font-size: 37PX;
+  width: 276px;
+  height: 79PX;
+  background-color: rgb(0, 0, 0);
+  display: inline-block;
+  color: white;
+  
+  text-align: center;
+}
+
+.box2{ 
+
+  width: 276px;
+  height: 79PX;
+  background-color: rgb(0, 0, 0);
+  display: inline-block;
+  color: white;
+  font-size: 50PX;
+  text-align: center;
+
+
+
+}
+.box3{ 
+    width: 230px;
+    height:50PX;
+    background-color: rgb(0, 0, 0);
+    display:inline-block;
+    color: white;
+    font-size: 20PX;
+    text-align: center;
+}
+.box4{ 
+    width: 230px;
+    height:50PX;
+    background-color: rgb(0, 0, 0);
+    display:inline-block;
+    color: white;
+    font-size: 20PX;
+    text-align: center;
+}
+.box5{ 
+    width: 230px;
+    height:50PX;
+    background-color: rgb(0, 0, 0);
+    display:inline-block;
+    color: white;
+    font-size: 20PX;
+    text-align: center;
+}
+.box6{ 
+    width: 230px;
+    height:50PX;
+    background-color: rgb(0, 0, 0);
+    display:inline-block;
+    color: white;
+    font-size: 20PX;
+    text-align: center;
+}
+.box7{ 
+    width: 230px;
+    height:50PX;
+    background-color: rgb(0, 0, 0);
+    display:inline-block;
+    color: white;
+    font-size: 20PX;
+    text-align: center;
+}
+.box8{ 
+    width: 230px;
+    height:50PX;
+    background-color: rgb(0, 0, 0);
+    display:inline-block;
+    color: white;
+    font-size: 20PX;
+    text-align: center;
+}
+h2{
+   
+  
+  margin: 46px 59px 43px 171px;
+  font-size: 35px;
+}
+
+h3{
+   
+    margin: 50px 25px 39px 524px;
+  color: red;
+  font-size: 32px;
+}
+ul{
+
+
+  margin: 69px 39px 127px 24px;
+  height: 178px;
+  font-size: 37px;
+  
+}
+.line2{
+  margin: -261px 42px 0px -5px;
+  padding: 43px;
+  width: 1903px;
+}
+.line3{
+
+
+  margin: -176px 301px 42px -41px;
+  padding: 2px;
+  width: 2053px;
+}
+ 
+.sarkaritools{
+
+  background-color: rgb(53, 8, 142);
+  color: white;
+  text-align: justify;
+  width: 37%;
+  display: inline-block;
+  margin: -433px 219px 90px 593px;
+  border: 13px dotted black;
+}
+
+.colorboxes{
+
+
+  margin: 6px -59px 89px 64px;
+  background-color: blue;
+  padding: 14px;
+  display: inline-block;
+  width: 438px;
+  font-size: 26px;
+  height: 166px;
+}
+.colorboxes2{
+  margin: 6px -59px 89px 64px;
+  background-color:pink;
+  padding: 14px;
+  display: inline-block;
+  width: 438px;
+  font-size: 26px;
+  height: 166px;
+ 
+}
+.colorboxes3{
+  margin: 6px -59px 89px 64px;
+  background-color:red;
+  padding: 14px;
+  display: inline-block;
+  width: 438px;
+  font-size: 26px;
+  height: 166px;
+ 
+}
+.colorboxes4{
+  margin: 6px -59px 89px 64px;
+  background-color:green;
+  padding: 14px;
+  display: inline-block;
+  width: 438px;
+  font-size: 26px;
+  height: 166px;
+ 
+}
+.colorboxes5{
+  margin: 6px -59px 89px 64px;
+  background-color:gold;
+  padding: 14px;
+  display: inline-block;
+  width: 438px;
+  font-size: 26px;
+  height: 166px;
+ 
+}
+.colorboxes6{
+  margin: 6px -59px 89px 64px;
+  background-color:brown;
+  padding: 14px;
+  display: inline-block;
+  width: 438px;
+  font-size: 26px;
+  height: 166px;
+ 
+}
+.colorboxes7{
+  margin: 6px -59px 89px 64px;
+  background-color:darkblue;
+  padding: 14px;
+  display: inline-block;
+  width: 438px;
+  font-size: 26px;
+  height: 166px;
+ 
+}
+.colorboxes8{
+  margin: 6px -59px 89px 64px;
+  background-color:red;
+  padding: 14px;
+  display: inline-block;
+  width: 438px;
+  font-size: 26px;
+  height: 166px;
+ 
+}
+
+
+.mainbox{
+  font-size: 32px;
+
+  background-color: white;
+  margin: -133px -101px 176px -102px;
+}
+
+.result{
+  border: 8px solid rgb(165, 132, 42);
+  height: 982px;
+  width: 587px;
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  margin: 260px 32px 124px 46px;
+  
+}
+   
+.results{
+  box-sizing: border-box;
+  background-color: brown;
+  text-align: center;
+  /* margin: -22px -2px 29px -2px; */
+  height: 120px;
+  margin: -44px -2px 29px -2px;
+}
+
+
+.somebasic{
+
+
+  margin: 105px 311px 221px -18px;
+  width: 670px;
+}
+  .admitcard{
+    margin: 20px 125px 127px -40px;
+    width: 670px;
+  }
+  .latestjob{
+    margin: 20px 125px 127px -40px;
+    width: 670px;
+
+  }
